@@ -1,0 +1,6 @@
+youtube_dl
+tkinter
+googlesearch-python
+webbrowser
+urllib
+shutil
